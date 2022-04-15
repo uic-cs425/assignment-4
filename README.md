@@ -1,6 +1,6 @@
 # CS425 - Computer Graphics I (Spring 2022)
 
-## Assignment 4: Procedural geometries
+## Assignment 4: Geometries from images
 The goal of this assignment is to implement a function to create geometries based on an input PNG image that describes the height of buildings. Your application should receive a PNG image and, for each pixel of the image, create a geometry with height determined by the color of the pixel. In other words, a pixel with RGBA value (255,0,0,0) will generate a taller building than pixel with RGBA value (120,0,0,0).
 
 For example, loading the image on the left should result in geometries similar to the one on the right:
