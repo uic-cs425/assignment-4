@@ -10,7 +10,7 @@ There are three tasks (plus an optional one), and you are free to use the skelet
 
 File `utils.js` contains some useful functions to [shaders](https://developer.mozilla.org/en-US/docs/Web/API/WebGLShader), [programs](https://developer.mozilla.org/en-US/docs/Web/API/WebGLProgram), [buffers](https://developer.mozilla.org/en-US/docs/Web/API/WebGLBuffer), [VAOs](https://developer.mozilla.org/en-US/docs/Web/API/WebGLVertexArrayObject), as well as [matrix operations](https://developer.mozilla.org/en-US/docs/Web/API/WebGL_API/Matrix_math_for_the_web), [projections](http://www.songho.ca/opengl/gl_projectionmatrix.html), and [lookat](https://www.khronos.org/registry/OpenGL-Refpages/gl2.1/xhtml/gluLookAt.xml).
 
-Here is an example of assignment 4 loading different image files:
+Here is an example of assignment 4 loading different image files (bottom right):
 ![Assignment 4 examples](assignment-4.png)
 
 ### Tasks
