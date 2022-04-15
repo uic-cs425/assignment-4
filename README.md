@@ -3,7 +3,7 @@
 ## Assignment 4: Procedural geometries
 The goal of this assignment is to implement a function to create geometries based on an input PNG image that describes the height of buildings. Your application should receive a PNG image and, for each pixel of the image, create a geometry with height determined by the color of the pixel. In other words, a pixel with RGBA value (255,0,0,0) will generate a taller building than pixel with RGBA value (120,0,0,0).
 
-For example, loading the image on the right should result in geometries similar to the ones showed on the right image:
+For example, loading the image on the left should result in geometries similar to the one on the right:
 ![Assignment 4 examples](assignment-4-example.png)
 
 There are three tasks (plus an optional one), and you are free to use the skeleton code provided. The code has some comments detailing what needs to be implemented in each function; it contains functions to handle file upload, and user interactions through the control panel, very similar to assignments 1 and 2.
